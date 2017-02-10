@@ -1,0 +1,22 @@
+20
+1 ; 06/03/2016 ; cerveja, batata frita, amendoins, agua
+1 ; 08/08/2016 ; cerveja, amendoins, pao
+2 ; 12/01/2016 ; peixe, carne, cha
+6 ; 10/01/2016 ; agua, acucar, cha, presunto, bolachas
+2 ; 14/02/2016 ; cerveja, batata frita, amendoins, presunto
+9 ; 19/05/2016 ; fiambre, peixe, carne, cafe, bolachas
+14 ; 20/05/2016 ; sumo, agua, bolachas
+3 ; 19/05/2016 ; cerveja, batata frita, amendoins, cafe, presunto, agua
+13 ; 20/05/2016 ; amendoins
+15 ; 20/05/2016 ; peixe
+17 ; 20/05/2016 ; pao
+8 ; 20/05/2016 ; carne
+22 ; 20/05/2016 ; sumo
+16 ; 23/05/2016 ; bolachas
+23 ; 25/05/2016 ; acucar
+7 ; 25/05/2016 ; agua
+21 ; 20/05/2016 ; cha
+11 ; 20/05/2016 ; fiambre
+18 ; 20/05/2016 ; presunto
+12 ; 20/05/2016 ; vinho
+1 ; 20/05/2016 ; sumo, agua, bolachas, carne

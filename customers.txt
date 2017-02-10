@@ -1,0 +1,19 @@
+18
+9 ; Carolina Lopes ; 22/04/2016 ; 21.8
+13 ; Eduarda Reis ; 25/01/2016 ; 2.3
+6 ; Joana Beires ; 15/10/2010 ; 8.5
+8 ; José Pereira ; 08/04/2016 ; 9.1
+12 ; Luis Teixeira ; 18/02/2016 ; 9.0
+16 ; Manuela Moura ; 31/03/2016 ; 1.6
+7 ; Margarida Gomes ; 09/04/2016 ; 0.6
+2 ; Maria de Lurdes ; 23/04/2009 ; 27.5
+3 ; Mariana Silva ; 14/05/2016 ; 11.9
+21 ; Marta Marinho ; 05/03/2016 ; 0.6
+22 ; Martinho Melro ; 02/01/2016 ; 2.6
+11 ; Mitó Teresa ; 01/01/2016 ; 3.3
+15 ; Paula ; 14/08/2013 ; 7.8
+14 ; Paula Neves ; 02/02/2014 ; 4.8
+18 ; Rita Fonseca ; 23/05/2016 ; 4.5
+17 ; Rita Pereira ; 13/03/2016 ; 0.1
+1 ; Rui Pereira ; 12/01/2008 ; 26.9
+23 ; Rute Marlene ; 14/05/2016 ; 1.2
