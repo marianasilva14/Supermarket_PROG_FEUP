@@ -4,10 +4,9 @@
 
 - Francisca Leão Cerquinho Ribeiro da Fonseca - up201505791
 - Mariana Lopes Silva - up201506197
-	
-	No nosso projeto foram cumpridos todos os objetivos fundamentais (leitura e escrita em ficheiros de texto; gerir clientes (criar, alterar, remover e listar os
-clientes por ordem alfabética do seu nome); gerir transações (listar todas as transações num intervalo de tempo data; listar por ordem cronológica as transações de um 
-cliente cujo nome foi dado); permitir ao utilizador efetuar compras (transações), atualizando o montante total de compras do correspondente cliente; calcular os 10 
-piores clientes e, por fim, personalizar publicidade para um só cliente e para os Bottom 10 utilizando o sistema de recomendação.
-	Relativamente ao sistema de recomendação, achamos por bem decidir qual a margem de recomendação que deve ser feita ao cliente, dando o valor de 0.5 ao grau
-de compatibilidade, ou seja, para que o cliente seja recomendado deverá ter um "grau de parecença" de, pelo menos, 0.5.
+
+This project consists of reading and writing to text files; customer management (create, change, remove and list customers alphabetically
+by their name); Transaction management (list all transactions in a date range; list in chronological order the transactions of a customer
+whose name was given); permission to the user to make purchases (transactions), updating the total amount of purchases of the
+corresponding customer; calculation of the 10 worst clients and finally, personalization of advertising for a single client and Bottom 10
+using the recommendation system. It was developed throughout the course unit of Programming.
